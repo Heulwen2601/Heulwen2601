@@ -46,6 +46,8 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heulwen2601&layout=compact&langs_count=6&hide_border=true&theme=default" />
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heulwen2601&theme=default" />
     </td>
