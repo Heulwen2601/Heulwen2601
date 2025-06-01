@@ -84,24 +84,29 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heulwen2601&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=heulwen2601&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=heulwen2601" alt="GitHub Streak" />
-</p>
 
----
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heulwen2601&layout=compact&langs_count=6&hide_border=true&theme=default" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heulwen2601&theme=default" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=heulwen2601&hide_border=true&theme=default" />
+    </td>
+    <td valign="top">
+      <h3>🎯 Goals:</h3>
+      <ul>
+        <li>✅ Improve frontend skills (HTML/CSS, React)</li>
+        <li>✅ Master GitHub, manage projects effectively</li>
+        <li>✅ Do 1–2 real projects each semester</li>
+        <li>🚀 Learn more about UI/UX, improve design with Figma</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">🎯 Goals:</h3>
-
-- ✅ Improve frontend skills (HTML/CSS, React)
-
-- ✅ Master GitHub, manage projects effectively
-
-- ✅ Do 1–2 real projects each semester
-
-- 🚀 Learn more about UI/UX, improve design with Figma
