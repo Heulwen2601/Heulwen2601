@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Heulwen</h1>
 <h3 align="center">A junior student working hard to become a frontend developer</h3>
 
-- 🔭 I’m currently studying at [Ton Duc Thang University](https://tdtu.edu.vn/)
+- 🔭 I’m currently studying at [Ton Duc Thang University](https://tdtu.edu.vn/).
 
-- 🌱 I’m currently learning **React, Node.js, and more**
+- 🌱 I’m currently learning **React, Node.js, and more**.
 
-- 👨‍💻 Check out my projects at [My GitHub Project List](https://github.com/stars/Heulwen2601/lists/projects)
+- 👨‍💻 Check out my projects at [My GitHub Project List](https://github.com/stars/Heulwen2601/lists/projects).
 
-- 📫 Reach me at: **huynhnhuhn2004@gmail.com**
+- 📫 Reach me at: **huynhnhuhn2004@gmail.com**.
 
 ---
 
