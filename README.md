@@ -1,25 +1,26 @@
-<h1 align="center">Hi 👋, I'm Heulwen</h1>
-<h3 align="center">Final-year Student | Full-stack Web Developer in Progress</h3>
+<h1 align="center">Hi, I'm Heulwen</h1>
+<h3 align="center">Final-year Student | Full-stack Web Developer</h3>
 
 <p align="center">
-  A fourth-year student passionate about building complete, user-friendly web applications.<br/>
-  Currently focusing on <b>Full-stack Web Development</b> with React, Node.js, and modern web technologies.
+  A final-year student with a strong interest in building scalable, user-friendly web applications.<br/>
+  Experienced in developing full-stack projects using <b>React</b>, <b>Node.js</b>, and modern web technologies.
 </p>
 
 ---
 
-### About Me
-- 🎓 Studying at <a href="https://tdtu.edu.vn/" target="_blank">Ton Duc Thang University</a>
-- 🌱 Currently learning <b>React, Node.js</b> and improving core frontend skills
-- 👨‍💻 My projects: <a href="https://github.com/stars/Heulwen2601/lists/projects" target="_blank">GitHub Project List</a>
-- 📫 Contact me: <b>huynhnhuhn2004@gmail.com</b>
+## 👩‍🎓 About Me
+- 🎓 Final-year student at <a href="https://tdtu.edu.vn/" target="_blank">Ton Duc Thang University</a>
+- 💻 Major focus: <b>Full-stack Web Development</b>
+- 🌱 Currently improving skills in <b>React, Node.js</b>, RESTful APIs, and databases
+- 👨‍💻 Project portfolio: <a href="https://github.com/stars/Heulwen2601/lists/projects" target="_blank">GitHub Project List</a>
+- 📫 Contact: <b>huynhnhuhn2004@gmail.com</b>
 
-> ℹ️ Some projects were originally developed on my school's private GitLab system.  
-> They are cloned to GitHub for showcasing purposes, so a few repositories may have limited commit history.
+> ℹ️ Some projects were originally developed on my university’s private GitLab system.  
+> They are cloned to GitHub for portfolio purposes, therefore some repositories may have limited commit history.
 
 ---
 
-### Connect with Me
+## 🤝 Connect with Me
 <p align="left">
   <a href="https://fb.com/lhnhu2004" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
@@ -31,38 +32,50 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 🛠️ Languages & Tools
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+  <a href="https://react.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
+</p>
+
+<p>
+  Also familiar with: Java, C#, PHP, Python, .NET, Spring Boot, Flutter, SQLite, Oracle, Bootstrap
+</p>
 
 ---
 
-<h3>🎯 Goals:</h3>
-<ul>
-  <li>✅ Improve frontend skills (HTML/CSS, React)</li>
-  <li>✅ Master GitHub, manage projects effectively</li>
-  <li>✅ Do 1–2 real projects each semester</li>
-  <li>🚀 Learn more about UI/UX, improve design with Figma</li>
-</ul>
-    
+## 🎯 Career Goals
+- 🚀 Become a professional <b>Full-stack Web Developer</b>
+- ✅ Strengthen frontend expertise with React and modern UI patterns
+- ✅ Improve backend development skills (Node.js, APIs, databases)
+- 🎨 Enhance UI/UX knowledge and design workflow using Figma
+- 💼 Gain real-world experience through internships and real projects
+
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
+## 📊 GitHub Statistics
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heulwen2601&layout=compact&langs_count=6&hide_border=true&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heulwen2601&layout=compact&langs_count=6&hide_border=true" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heulwen2601&theme=default" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heulwen2601" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=heulwen2601&hide_border=true&theme=default" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=heulwen2601&hide_border=true" />
     </td>
   </tr>
 </table>
-
