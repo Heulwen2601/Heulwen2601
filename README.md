@@ -1,23 +1,31 @@
 <h1 align="center">Hi 👋, I'm Heulwen</h1>
-<h3 align="center">A junior student working hard to become a frontend developer</h3>
+<h3 align="center">Final-year Student | Full-stack Web Developer in Progress</h3>
 
-- 🔭 I’m currently studying at [Ton Duc Thang University](https://tdtu.edu.vn/).
-
-- 🌱 I’m currently learning **React, Node.js, and more**.
-
-- 👨‍💻 Check out my projects at [My GitHub Project List](https://github.com/stars/Heulwen2601/lists/projects).
-
-- 📫 Reach me at: **huynhnhuhn2004@gmail.com**.
+<p align="center">
+  A fourth-year student passionate about building complete, user-friendly web applications.<br/>
+  Currently focusing on <b>Full-stack Web Development</b> with React, Node.js, and modern web technologies.
+</p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### About Me
+- 🎓 Studying at <a href="https://tdtu.edu.vn/" target="_blank">Ton Duc Thang University</a>
+- 🌱 Currently learning <b>React, Node.js</b> and improving core frontend skills
+- 👨‍💻 My projects: <a href="https://github.com/stars/Heulwen2601/lists/projects" target="_blank">GitHub Project List</a>
+- 📫 Contact me: <b>huynhnhuhn2004@gmail.com</b>
+
+> ℹ️ Some projects were originally developed on my school's private GitLab system.  
+> They are cloned to GitHub for showcasing purposes, so a few repositories may have limited commit history.
+
+---
+
+### Connect with Me
 <p align="left">
   <a href="https://fb.com/lhnhu2004" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
   </a>
   <a href="https://instagram.com/heulwen_uwu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
 </p>
 
