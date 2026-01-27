@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Heulwen</h1>
-<h3 align="center">Final-year Student | Full-stack Web Developer</h3>
+<h3 align="center">Final-year Student</h3>
 
 <p align="center">
   A final-year student with a strong interest in building scalable, user-friendly web applications.<br/>
