@@ -8,19 +8,19 @@
 
 ---
 
-## 👩‍🎓 About Me
-- 🎓 Final-year student at <a href="https://tdtu.edu.vn/" target="_blank">Ton Duc Thang University</a>
-- 💻 Major focus: <b>Full-stack Web Development</b>
-- 🌱 Currently improving skills in <b>React, Node.js</b>, RESTful APIs, and databases
-- 👨‍💻 Project portfolio: <a href="https://github.com/stars/Heulwen2601/lists/projects" target="_blank">GitHub Project List</a>
-- 📫 Contact: <b>huynhnhuhn2004@gmail.com</b>
+## About Me
+- Final-year student at <a href="https://tdtu.edu.vn/" target="_blank">Ton Duc Thang University</a>
+- Major focus: <b>Full-stack Web Development</b>
+- Currently improving skills in <b>React, Node.js</b>, RESTful APIs, and databases
+- Project portfolio: <a href="https://github.com/stars/Heulwen2601/lists/projects" target="_blank">GitHub Project List</a>
+- Contact: <b>huynhnhuhn2004@gmail.com</b>
 
 > ℹ️ Some projects were originally developed on my university’s private GitLab system.  
 > They are cloned to GitHub for portfolio purposes, therefore some repositories may have limited commit history.
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 <p align="left">
   <a href="https://fb.com/lhnhu2004" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
@@ -52,16 +52,16 @@
 
 ---
 
-## 🎯 Career Goals
-- 🚀 Become a professional <b>Full-stack Web Developer</b>
-- ✅ Strengthen frontend expertise with React and modern UI patterns
-- ✅ Improve backend development skills (Node.js, APIs, databases)
-- 🎨 Enhance UI/UX knowledge and design workflow using Figma
-- 💼 Gain real-world experience through internships and real projects
+## Career Goals
+- Become a professional <b>Full-stack Web Developer</b>
+- Strengthen frontend expertise with React and modern UI patterns
+- Improve backend development skills (Node.js, APIs, databases)
+- Enhance UI/UX knowledge and design workflow using Figma
+- Gain real-world experience through internships and real projects
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 <table>
   <tr>
     <td>
